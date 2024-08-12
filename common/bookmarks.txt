@@ -1,8 +1,8 @@
 bookmark =
 {
-	name = "EU4_NAME"
+	name = "Power Struggle of Europe - Romance of the Three Empires"
 	desc = "EU4_DESC"
-	date = 1820.1.1
+	date = 1825.1.1
 	cameraX = 2950 
 	cameraY = 1550
 }
