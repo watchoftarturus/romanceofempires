@@ -1,0 +1,8 @@
+owner=SHY
+controller=SHY
+add_core=CHG
+add_core=KAZ
+add_core=KHO
+add_core=TKS
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=NOR
+controller=NOR
+add_core=KON
+trade_goods = grain
+life_rating = 31
+colonial=2

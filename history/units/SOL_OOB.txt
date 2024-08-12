@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+HAW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

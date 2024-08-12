@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+APA = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

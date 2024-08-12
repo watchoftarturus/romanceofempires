@@ -1,0 +1,9 @@
+owner=ETH
+controller=ETH
+add_core=ADA
+add_core=ETH
+add_core=YEM
+trade_goods = fish
+life_rating = 31
+terrain = semidesert
+naval_base = 2

@@ -1,0 +1,742 @@
+#Sphere of Influence
+
+ALB = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ARW = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATM = {
+	value = 0
+	level = 2
+}
+AVR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAD = {
+	value = 0
+	level = 2
+}
+CAQ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHN = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COF = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 77
+	influence_value = 6
+	level = 2
+}
+DLH = {
+	value = 5
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -5
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+INO = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MPC = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OJI = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+OSH = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 36
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -12
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 4
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 3
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WCR = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WUR = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Folke Norheim"
+	date="1785.11.10"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Olav VI von Oldenburg"
+	date="1805.2.3"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Magnus Olavsson"
+	date="1787.9.27"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Gunnar Olavsson"
+	date="1789.11.5"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Einar Sverresson"
+	date="1793.1.21"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Einar Amundsen"
+	date="1794.12.2"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Ludvig Egilsson"
+	date="1805.2.6"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=311
+	regiment = {
+		name="1st Christianssand Infantry"
+		type=infantry
+		home=310
+	}
+	regiment = {
+		name="2nd Christianssand Infantry"
+		type=infantry
+		home=310
+	}
+	regiment = {
+		name="1st Östersund Cavalry"
+		type=cavalry
+		home=319
+	}
+	regiment = {
+		name="1st Östersund Artillery"
+		type=artillery
+		home=319
+	}
+	regiment = {
+		name="1st Luleå Artillery"
+		type=artillery
+		home=321
+	}
+	regiment = {
+		name="1st Drammen Artillery"
+		type=artillery
+		home=312
+	}
+	regiment = {
+		name="1st Alesund Artillery"
+		type=artillery
+		home=308
+	}
+	regiment = {
+		name="3rd Bergen Infantry"
+		type=infantry
+		home=309
+	}
+	regiment = {
+		name="1st Åland Islands Cavalry"
+		type=cavalry
+		home=348
+	}
+	regiment = {
+		name="1st Hamar Artillery"
+		type=artillery
+		home=314
+	}
+}
+
+army = {
+	name="5th Army"
+	location=306
+	regiment = {
+		name="1st Skien Infantry"
+		type=infantry
+		home=311
+	}
+	regiment = {
+		name="1st Östersund Infantry"
+		type=infantry
+		home=319
+	}
+	regiment = {
+		name="1st Bodo Infantry"
+		type=infantry
+		home=306
+	}
+	regiment = {
+		name="1st Christianssand Cavalry"
+		type=cavalry
+		home=310
+	}
+	regiment = {
+		name="1st Åland Islands Artillery"
+		type=artillery
+		home=348
+	}
+	regiment = {
+		name="2nd Östersund Artillery"
+		type=artillery
+		home=319
+	}
+	regiment = {
+		name="3rd Östersund Artillery"
+		type=artillery
+		home=319
+	}
+	regiment = {
+		name="1st Trondheim Infantry"
+		type=infantry
+		home=305
+	}
+	regiment = {
+		name="2nd Christianssand Cavalry"
+		type=cavalry
+		home=310
+	}
+	regiment = {
+		name="1st Christiania Artillery"
+		type=artillery
+		home=313
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2717
+	ship = {
+		name="Freia"
+		type=manowar
+	}
+	ship = {
+		name="Glommen"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=343
+	regiment = {
+		name="1st Bergen Infantry"
+		type=infantry
+		home=309
+	}
+	regiment = {
+		name="1st Göteborg Infantry"
+		type=infantry
+		home=329
+	}
+	regiment = {
+		name="2nd Bergen Infantry"
+		type=infantry
+		home=309
+	}
+	regiment = {
+		name="1st Gävle Cavalry"
+		type=cavalry
+		home=317
+	}
+	regiment = {
+		name="1st Trondheim Artillery"
+		type=artillery
+		home=305
+	}
+	regiment = {
+		name="1st Göteborg Artillery"
+		type=artillery
+		home=329
+	}
+	regiment = {
+		name="1st Bodo Artillery"
+		type=artillery
+		home=306
+	}
+	regiment = {
+		name="1st Västerås Artillery"
+		type=artillery
+		home=326
+	}
+	regiment = {
+		name="3rd Christianssand Cavalry"
+		type=cavalry
+		home=310
+	}
+	regiment = {
+		name="2nd Göteborg Artillery"
+		type=artillery
+		home=329
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2706
+	ship = {
+		name="Desideira"
+		type=manowar
+	}
+	ship = {
+		name="St Olaf"
+		type=manowar
+	}
+	ship = {
+		name="Kong Sverre"
+		type=manowar
+	}
+	ship = {
+		name="6th Christianssand Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2712
+	ship = {
+		name="Ellida"
+		type=frigate
+	}
+	ship = {
+		name="4th Christianssand Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2711
+	ship = {
+		name="Nordssthernen"
+		type=frigate
+	}
+	ship = {
+		name="Nornen"
+		type=frigate
+	}
+	ship = {
+		name="Nidaros"
+		type=frigate
+	}
+	ship = {
+		name="1st Benin Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2721
+	ship = {
+		name="Ørnen"
+		type=frigate
+	}
+	ship = {
+		name="2nd Königsberg Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=313
+	ship = {
+		name="Rjukan"
+		type=manowar
+	}
+	ship = {
+		name="Sarpen"
+		type=manowar
+	}
+	ship = {
+		name="Lougen"
+		type=manowar
+	}
+	ship = {
+		name="Hebe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Lina"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Iceland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Christianssand Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Frederiksstad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Orkney & Shetland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Iceland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Iceland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Frederiksstad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Christianssand Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Christianssand Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Orkney & Shetland Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=338
+	regiment = {
+		name="1st Göteborg Cavalry"
+		type=cavalry
+		home=329
+	}
+}
+

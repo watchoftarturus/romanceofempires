@@ -1,0 +1,58 @@
+1876 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 4289
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 204
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 14721
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 819
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 343
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 16
+	}
+
+}

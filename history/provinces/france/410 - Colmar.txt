@@ -1,0 +1,8 @@
+owner=ALS
+controller=ALS
+add_core=ALS
+add_core=GER
+add_core=HLR
+add_core=SWI
+trade_goods = sulphur
+life_rating = 31

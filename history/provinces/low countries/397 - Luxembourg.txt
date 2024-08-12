@@ -1,0 +1,10 @@
+owner=ALS
+controller=ALS
+add_core=ALS
+add_core=BEG
+add_core=BEL
+add_core=HLR
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+fort = 1

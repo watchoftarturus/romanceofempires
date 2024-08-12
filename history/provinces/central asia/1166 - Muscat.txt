@@ -1,0 +1,9 @@
+owner=PER
+controller=PER
+add_core=ARA
+add_core=OMA
+add_core=PER
+add_core=TUR
+trade_goods = opium
+life_rating = 35
+naval_base = 1

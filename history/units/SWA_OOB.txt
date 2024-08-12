@@ -1,0 +1,1509 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+AVR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 179
+	influence_value = 32
+	level = 4
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 1
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+INO = {
+	value = -34
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = -72
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 78
+	influence_value = 7
+	level = 2
+}
+MHR = {
+	value = 177
+	influence_value = 31
+	level = 4
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 25
+	level = 2
+}
+NTC = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 25
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = -13
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WUR = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Sa'if Salim"
+	date="1787.6.28"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Muksedi Semid"
+	date="1791.2.10"
+	type=sea
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Ngwale Salim"
+	date="1805.2.26"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Twakali Yomba"
+	date="1805.8.17"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="al-Hasan Sokoine"
+	date="1808.9.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=1870
+	regiment = {
+		name="1st Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="2nd Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st Mogadishu Cavalry"
+		type=cavalry
+		home=1868
+	}
+	regiment = {
+		name="1st Baidoa Artillery"
+		type=artillery
+		home=1869
+	}
+	regiment = {
+		name="1st Mosega Artillery"
+		type=artillery
+		home=2108
+	}
+	regiment = {
+		name="1st Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="1st Ga-Riba Artillery"
+		type=artillery
+		home=2109
+	}
+	regiment = {
+		name="3rd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="2nd Saan Artillery"
+		type=artillery
+		home=2106
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1985
+	regiment = {
+		name="1st Ga-Rankuwa Irregulars"
+		type=irregular
+		home=2105
+	}
+	regiment = {
+		name="1st uMgungundlovu Irregulars"
+		type=irregular
+		home=2113
+	}
+	regiment = {
+		name="1st Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="1st Baidoa Cavalry"
+		type=cavalry
+		home=1869
+	}
+	regiment = {
+		name="1st Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="2nd Mosega Artillery"
+		type=artillery
+		home=2108
+	}
+	regiment = {
+		name="1st Makwasi Artillery"
+		type=artillery
+		home=2107
+	}
+	regiment = {
+		name="2nd Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="6th Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+
+army = {
+	name="26th Army"
+	location=2015
+	regiment = {
+		name="1st Ga-Riba Irregulars"
+		type=irregular
+		home=2109
+	}
+	regiment = {
+		name="1st Saan Cavalry"
+		type=cavalry
+		home=2106
+	}
+	regiment = {
+		name="1st Griqualand Artillery"
+		type=artillery
+		home=2094
+	}
+	regiment = {
+		name="1st uMgungundlovu Artillery"
+		type=artillery
+		home=2113
+	}
+	regiment = {
+		name="1st Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="3rd Mosega Artillery"
+		type=artillery
+		home=2108
+	}
+	regiment = {
+		name="1st Thaba Nchu Artillery"
+		type=artillery
+		home=2101
+	}
+	regiment = {
+		name="7th Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="2nd Mogadishu Cavalry"
+		type=cavalry
+		home=1868
+	}
+	regiment = {
+		name="4th Griqualand Artillery"
+		type=artillery
+		home=2094
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2063
+	regiment = {
+		name="1st Thaba Bosiu Irregulars"
+		type=irregular
+		home=2104
+	}
+	regiment = {
+		name="1st Griqualand Irregulars"
+		type=irregular
+		home=2094
+	}
+	regiment = {
+		name="1st Ga-Rankuwa Cavalry"
+		type=cavalry
+		home=2105
+	}
+	regiment = {
+		name="2nd Ga-Riba Artillery"
+		type=artillery
+		home=2109
+	}
+	regiment = {
+		name="1st Emnambithi Artillery"
+		type=artillery
+		home=2112
+	}
+	regiment = {
+		name="1st Ga-Rankuwa Artillery"
+		type=artillery
+		home=2105
+	}
+	regiment = {
+		name="1st Qwa-Qwa Artillery"
+		type=artillery
+		home=2102
+	}
+	regiment = {
+		name="3rd Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+}
+
+army = {
+	name="21st Army"
+	location=2038
+	regiment = {
+		name="2nd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st Inkomati Cavalry"
+		type=cavalry
+		home=2049
+	}
+	regiment = {
+		name="2nd Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="1st Lephoi Artillery"
+		type=artillery
+		home=2103
+	}
+	regiment = {
+		name="2nd Ga-Rankuwa Artillery"
+		type=artillery
+		home=2105
+	}
+	regiment = {
+		name="2nd Thaba Nchu Artillery"
+		type=artillery
+		home=2101
+	}
+	regiment = {
+		name="1st Emnambithi Irregulars"
+		type=irregular
+		home=2112
+	}
+	regiment = {
+		name="1st Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+
+army = {
+	name="34th Army"
+	location=2017
+	regiment = {
+		name="2nd Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="1st Manjakazi Irregulars"
+		type=irregular
+		home=2050
+	}
+	regiment = {
+		name="2nd Thaba Bosiu Irregulars"
+		type=irregular
+		home=2104
+	}
+	regiment = {
+		name="1st O'okiep Cavalry"
+		type=cavalry
+		home=2088
+	}
+	regiment = {
+		name="2nd Emnambithi Artillery"
+		type=artillery
+		home=2112
+	}
+	regiment = {
+		name="2nd Qwa-Qwa Artillery"
+		type=artillery
+		home=2102
+	}
+	regiment = {
+		name="1st Inkomati Artillery"
+		type=artillery
+		home=2049
+	}
+	regiment = {
+		name="3rd Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2034
+	regiment = {
+		name="2nd Ga-Rankuwa Irregulars"
+		type=irregular
+		home=2105
+	}
+	regiment = {
+		name="1st Makwasi Irregulars"
+		type=irregular
+		home=2107
+	}
+	regiment = {
+		name="1st Ogaden Cavalry"
+		type=cavalry
+		home=1867
+	}
+	regiment = {
+		name="4th Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="5th Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="6th Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="2nd Lephoi Artillery"
+		type=artillery
+		home=2103
+	}
+	regiment = {
+		name="2nd Makwasi Artillery"
+		type=artillery
+		home=2107
+	}
+	regiment = {
+		name="3rd Mogadishu Cavalry"
+		type=cavalry
+		home=1868
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2915
+	ship = {
+		name="Shaka Zulu"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lima Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2907
+	ship = {
+		name="KwaZulu"
+		type=frigate
+	}
+	ship = {
+		name="Assegai"
+		type=frigate
+	}
+	ship = {
+		name="Dingane"
+		type=frigate
+	}
+	ship = {
+		name="Dziva"
+		type=frigate
+	}
+	ship = {
+		name="Mwari"
+		type=frigate
+	}
+	ship = {
+		name="Dzivaguru"
+		type=frigate
+	}
+	ship = {
+		name="Mulungu"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bosaso Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=2907
+	ship = {
+		name="Mbonga"
+		type=frigate
+	}
+	ship = {
+		name="Svikiro"
+		type=frigate
+	}
+	ship = {
+		name="Mazendere"
+		type=frigate
+	}
+	ship = {
+		name="Mai Vedu"
+		type=frigate
+	}
+	ship = {
+		name="Musikavanhu"
+		type=frigate
+	}
+	ship = {
+		name="Mutorwa"
+		type=frigate
+	}
+	ship = {
+		name="1st Antsiranana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Zanzibar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Angoche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Toliara Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1871
+	regiment = {
+		name="3rd Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="4th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="5th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="3rd Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="4th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="2nd Griqualand Artillery"
+		type=artillery
+		home=2094
+	}
+	regiment = {
+		name="5th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=2108
+	regiment = {
+		name="6th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="7th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="8th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Griqualand Cavalry"
+		type=cavalry
+		home=2094
+	}
+	regiment = {
+		name="3rd Makwasi Artillery"
+		type=artillery
+		home=2107
+	}
+	regiment = {
+		name="6th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="7th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="8th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="6th Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=3158
+	ship = {
+		name="4th Toliara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mzizima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mahajanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Quelimane Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2072
+	regiment = {
+		name="9th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="2nd Griqualand Irregulars"
+		type=irregular
+		home=2094
+	}
+	regiment = {
+		name="10th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="2nd Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="4th Makwasi Artillery"
+		type=artillery
+		home=2107
+	}
+	regiment = {
+		name="3rd Ga-Riba Artillery"
+		type=artillery
+		home=2109
+	}
+	regiment = {
+		name="4th Ga-Riba Artillery"
+		type=artillery
+		home=2109
+	}
+	regiment = {
+		name="9th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+}
+
+army = {
+	name="44th Army"
+	location=2024
+	regiment = {
+		name="11th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="3rd Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="10th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="11th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="12th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="13th Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="4th Mogadishu Cavalry"
+		type=cavalry
+		home=1868
+	}
+	regiment = {
+		name="3rd Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1870
+	regiment = {
+		name="2nd uMgungundlovu Irregulars"
+		type=irregular
+		home=2113
+	}
+	regiment = {
+		name="4th Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="5th Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="3rd Thaba Nchu Artillery"
+		type=artillery
+		home=2101
+	}
+	regiment = {
+		name="2nd Baidoa Artillery"
+		type=artillery
+		home=1869
+	}
+	regiment = {
+		name="1st Manjakazi Artillery"
+		type=artillery
+		home=2050
+	}
+	regiment = {
+		name="1st Saan Artillery"
+		type=artillery
+		home=2106
+	}
+	regiment = {
+		name="1st Mbabane Artillery"
+		type=artillery
+		home=2114
+	}
+	regiment = {
+		name="1st Socotra Artillery"
+		type=artillery
+		home=1177
+	}
+	regiment = {
+		name="5th Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="2nd Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2039
+	regiment = {
+		name="1st Bale Irregulars"
+		type=irregular
+		home=1866
+	}
+	regiment = {
+		name="3rd Qwa-Qwa Artillery"
+		type=artillery
+		home=2102
+	}
+	regiment = {
+		name="3rd Griqualand Artillery"
+		type=artillery
+		home=2094
+	}
+	regiment = {
+		name="4th Qwa-Qwa Artillery"
+		type=artillery
+		home=2102
+	}
+	regiment = {
+		name="3rd Lephoi Artillery"
+		type=artillery
+		home=2103
+	}
+	regiment = {
+		name="4th Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+}
+
+army = {
+	name="25th Army"
+	location=2032
+	regiment = {
+		name="1st Lephoi Irregulars"
+		type=irregular
+		home=2103
+	}
+	regiment = {
+		name="1st O'okiep Artillery"
+		type=artillery
+		home=2088
+	}
+	regiment = {
+		name="2nd Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="3rd Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="4th Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="4th Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1871
+	ship = {
+		name="1st Toamasina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zanzibar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kismayo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Moçambique Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antsiranana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Benguela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Antsiranana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Berbera Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2045
+	regiment = {
+		name="5th Thaba Bosiu Artillery"
+		type=artillery
+		home=2104
+	}
+	regiment = {
+		name="7th Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="5th Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1871
+	ship = {
+		name="1st Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lindi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mogadishu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zanzibar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Toliara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanga Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="17th Fleet"
+	location=1871
+	ship = {
+		name="2nd Toliara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Mzizima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Toliara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tanga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lamu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Toamasina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Angoche Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Toamasina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ibo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Zanzibar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Moçambique Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zanzibar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ibo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Toliara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Paysandú Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lindi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Toliara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Antsiranana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Angoche Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Mzizima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Kilwa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lindi Clipper Transport"
+		type=clipper_transport
+	}
+}
+

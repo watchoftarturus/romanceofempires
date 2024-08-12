@@ -1,0 +1,158 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1361
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 11743
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 510
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 107
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3410
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10984
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 621
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 239
+	}
+
+}

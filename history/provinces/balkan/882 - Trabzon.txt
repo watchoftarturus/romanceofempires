@@ -1,0 +1,6 @@
+owner=PER
+controller=PER
+add_core=TBZ
+trade_goods = cattle
+life_rating = 35
+naval_base = 1

@@ -1,0 +1,5 @@
+owner=SPA
+controller=SPA
+add_core=CEQ
+trade_goods = rubber
+life_rating = 34

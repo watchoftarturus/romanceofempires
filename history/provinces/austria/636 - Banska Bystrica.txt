@@ -1,0 +1,6 @@
+owner=HUN
+controller=HUN
+add_core=SLV
+add_core=WSF
+trade_goods = iron
+life_rating = 35

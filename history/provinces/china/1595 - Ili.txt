@@ -1,0 +1,6 @@
+owner=SHY
+controller=SHY
+add_core=SHY
+add_core=ZUN
+trade_goods = sulphur
+life_rating = 32

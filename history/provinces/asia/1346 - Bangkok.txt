@@ -1,0 +1,9 @@
+owner=INO
+controller=INO
+add_core=IDO
+add_core=INO
+add_core=SIA
+trade_goods = grain
+life_rating = 40
+naval_base = 1
+fort = 1

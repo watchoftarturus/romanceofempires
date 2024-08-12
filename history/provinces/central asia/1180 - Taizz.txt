@@ -1,0 +1,8 @@
+owner=MHR
+controller=MHR
+add_core=ADE
+add_core=ARA
+add_core=EGY
+add_core=YEM
+trade_goods = coffee
+life_rating = 35

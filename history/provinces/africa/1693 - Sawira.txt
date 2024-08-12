@@ -1,0 +1,4 @@
+owner=TUN
+controller=TUN
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=INO
+controller=INO
+add_core=IDO
+add_core=INO
+add_core=SIA
+trade_goods = timber
+life_rating = 35
+naval_base = 2
+fort = 1

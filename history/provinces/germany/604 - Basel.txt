@@ -1,0 +1,6 @@
+owner=SWI
+controller=FRA
+add_core=HLR
+add_core=SWI
+trade_goods = fruit
+life_rating = 32

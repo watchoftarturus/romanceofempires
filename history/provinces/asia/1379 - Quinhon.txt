@@ -1,0 +1,9 @@
+owner=SIA
+controller=SIA
+add_core=CHA
+add_core=DAI
+add_core=IDO
+trade_goods = silk
+life_rating = 34
+naval_base = 2
+fort = 1

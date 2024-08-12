@@ -1,0 +1,100 @@
+2244 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 768
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 26214
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 551
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 89
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 687
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 26
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 2294
+	}
+
+}

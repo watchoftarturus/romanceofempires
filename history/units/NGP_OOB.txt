@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+BNG = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

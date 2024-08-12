@@ -1,0 +1,7 @@
+owner=USA
+controller=USA
+add_core=HUR
+add_core=OJI
+add_core=USA
+trade_goods = iron
+life_rating = 31

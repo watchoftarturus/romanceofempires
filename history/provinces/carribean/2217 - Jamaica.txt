@@ -1,0 +1,5 @@
+owner=POR
+controller=POR
+add_core=DOM
+trade_goods = sulphur
+life_rating = 35

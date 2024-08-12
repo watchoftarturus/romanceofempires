@@ -1,0 +1,10 @@
+owner=EGY
+controller=EGY
+add_core=ARA
+add_core=EGY
+add_core=NEJ
+add_core=SGH
+add_core=TUR
+add_core=YEM
+trade_goods = wool
+life_rating = 35

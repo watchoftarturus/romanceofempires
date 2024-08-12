@@ -1,0 +1,151 @@
+2125 = {
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 30097
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 1292
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 542
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 97
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 42
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 781
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 26589
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 558
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 598
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 1413
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 81
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 18662
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=SPA
+controller=SPA
+add_core=BOL
+add_core=CLM
+trade_goods = timber
+life_rating = 31

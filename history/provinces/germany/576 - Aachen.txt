@@ -1,0 +1,12 @@
+owner=FRA
+controller=FRA
+add_core=BEG
+add_core=FRA
+add_core=GER
+add_core=HLR
+add_core=UTR
+add_core=WES
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+fort = 1

@@ -1,0 +1,52 @@
+vassal=
+{
+	first="HAN"
+	second="HLL"
+	start_date="1809.2.7"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="WUR"
+	second="KNZ"
+	start_date="1757.2.21"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="PER"
+	second="AVR"
+	start_date="1799.9.15"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="TUS"
+	second="YUG"
+	start_date="1809.4.24"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="TUS"
+	second="CRO"
+	start_date="1809.4.24"
+	end_date="1936.1.1"
+}
+
+
+vassal=
+{
+	first="NAP"
+	second="PAP"
+	start_date="1809.4.24"
+	end_date="1936.1.1"
+}

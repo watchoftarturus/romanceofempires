@@ -1,0 +1,10 @@
+owner=MHR
+controller=MHR
+add_core=ADE
+add_core=ARA
+add_core=EGY
+add_core=YEM
+trade_goods = opium
+life_rating = 32
+terrain = semidesert
+naval_base = 2

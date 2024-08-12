@@ -1,0 +1,8 @@
+owner=AST
+controller=JAP
+add_core=AST
+add_core=AUA
+trade_goods = grain
+life_rating = 20
+terrain = savanna
+fort = 1

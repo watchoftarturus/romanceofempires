@@ -1,0 +1,6 @@
+owner=SPA
+controller=SPA
+add_core=CEQ
+trade_goods = cotton
+life_rating = 35
+terrain = farmlands

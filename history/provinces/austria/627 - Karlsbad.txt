@@ -1,0 +1,7 @@
+owner=BAV
+controller=BAV
+add_core=BOH
+add_core=HLR
+add_core=WSF
+trade_goods = iron
+life_rating = 35

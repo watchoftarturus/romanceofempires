@@ -1,0 +1,51 @@
+2131 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1126
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 52205
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2259
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 366
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 475
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 169
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 73
+	}
+
+}

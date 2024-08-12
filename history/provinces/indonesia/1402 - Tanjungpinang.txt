@@ -1,0 +1,8 @@
+owner=INO
+controller=INO
+add_core=INO
+add_core=MLY
+add_core=PLB
+trade_goods = timber
+life_rating = 30
+fort = 1

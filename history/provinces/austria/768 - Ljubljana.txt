@@ -1,0 +1,8 @@
+owner=BAV
+controller=BAV
+add_core=HLR
+add_core=SLO
+add_core=TUS
+add_core=YUG
+trade_goods = grain
+life_rating = 35

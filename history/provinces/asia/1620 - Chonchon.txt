@@ -1,0 +1,7 @@
+owner=MNX
+controller=MNX
+add_core=KOR
+trade_goods = tea
+life_rating = 31
+naval_base = 1
+fort = 1

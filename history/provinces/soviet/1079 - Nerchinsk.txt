@@ -1,0 +1,4 @@
+owner=MNX
+controller=MNX
+trade_goods = grain
+life_rating = 35

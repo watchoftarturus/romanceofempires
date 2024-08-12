@@ -1,0 +1,8 @@
+owner=MEX
+controller=MEX
+add_core=HST
+add_core=MEX
+add_core=MIX
+add_core=ZAP
+trade_goods = coffee
+life_rating = 35

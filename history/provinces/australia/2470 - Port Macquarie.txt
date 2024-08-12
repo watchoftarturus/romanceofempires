@@ -1,0 +1,9 @@
+owner=AST
+controller=AST
+add_core=AST
+add_core=AUE
+add_core=AUI
+add_core=X08
+trade_goods = grain
+life_rating = 33
+naval_base = 1

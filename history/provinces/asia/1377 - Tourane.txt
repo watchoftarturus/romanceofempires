@@ -1,0 +1,7 @@
+owner=MNX
+controller=MNX
+add_core=CHA
+add_core=IDO
+trade_goods = fish
+life_rating = 35
+naval_base = 2

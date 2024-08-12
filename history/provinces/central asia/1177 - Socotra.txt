@@ -1,0 +1,8 @@
+owner=SWA
+controller=SWA
+add_core=ARA
+add_core=MHR
+trade_goods = fish
+life_rating = 20
+terrain = semidesert
+naval_base = 1

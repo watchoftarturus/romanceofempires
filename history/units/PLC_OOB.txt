@@ -1,0 +1,1548 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 29
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+ATM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+AVR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BOL = {
+	value = -15
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAD = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+DEN = {
+	value = 82
+	military_access = yes
+	influence_value = 58
+	level = 5
+}
+DLH = {
+	value = -41
+	level = 2
+}
+DOM = {
+	value = -15
+	level = 2
+}
+DTT = {
+	value = -15
+	level = 2
+}
+EGY = {
+	value = 81
+	influence_value = 7
+	level = 2
+}
+ENG = {
+	value = -11
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -14
+	level = 2
+}
+GLR = {
+	value = -15
+	level = 2
+}
+GRE = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+GUJ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 9
+	level = 2
+}
+INO = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -12
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+NTC = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+PER = {
+	value = 37
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+ROM = {
+	value = 169
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+RUS = {
+	value = -17
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = -13
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+SWA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SWI = {
+	value = -15
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+TUS = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+URU = {
+	value = -15
+	level = 2
+}
+USA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+VIJ = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WUR = {
+	value = -10
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gediminas Górka"
+	date="1771.11.13"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Iwan Opacki"
+	date="1778.9.2"
+	type=land
+	personality="chivalrous"
+	background="bootlicker"
+}
+
+leader = {
+	name="Jonusas Malski"
+	date="1791.3.25"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Patryk Pulaski"
+	date="1791.7.2"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Petras Radziejowski"
+	date="1799.4.2"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Stefan Flemming"
+	date="1799.3.31"
+	type=sea
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Jonas Zaluski"
+	date="1799.4.4"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Wladyslaw Drzewicki"
+	date="1799.11.11"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Zygmunt Kazimierz Pulaski"
+	date="1802.4.18"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Raimondas Drzewicki"
+	date="1805.4.3"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Andrius Chometowski"
+	date="1806.6.7"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Krystian Zabiello"
+	date="1808.1.12"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Armia z Solikamsk"
+	location=611
+	regiment = {
+		name="1st Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="1st Pinsk Infantry"
+		type=infantry
+		home=940
+	}
+	regiment = {
+		name="1st Elbing Cavalry"
+		type=cavalry
+		home=693
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="1st Cherkassy Artillery"
+		type=artillery
+		home=961
+	}
+	regiment = {
+		name="1st Tarnopol Artillery"
+		type=artillery
+		home=952
+	}
+	regiment = {
+		name="1st Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Rzhev Cavalry"
+		type=cavalry
+		home=999
+	}
+	regiment = {
+		name="5th Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+}
+
+army = {
+	name="Armia z Troki"
+	location=545
+	regiment = {
+		name="1st Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Lublin Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="1st Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Torun Artillery"
+		type=artillery
+		home=694
+	}
+	regiment = {
+		name="2nd Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Cherkassy Infantry"
+		type=infantry
+		home=961
+	}
+	regiment = {
+		name="6th Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+}
+
+army = {
+	name="Armia z Wizna"
+	location=427
+	regiment = {
+		name="2nd Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="1st Korosten Infantry"
+		type=infantry
+		home=959
+	}
+	regiment = {
+		name="1st Allenstein Cavalry"
+		type=cavalry
+		home=696
+	}
+	regiment = {
+		name="1st Jelgava Cavalry"
+		type=cavalry
+		home=357
+	}
+	regiment = {
+		name="1st Przemysl Artillery"
+		type=artillery
+		home=705
+	}
+	regiment = {
+		name="3rd Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+	regiment = {
+		name="4th Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Allenstein Infantry"
+		type=infantry
+		home=696
+	}
+	regiment = {
+		name="2nd Allenstein Cavalry"
+		type=cavalry
+		home=696
+	}
+	regiment = {
+		name="1st Nowy Sacz Artillery"
+		type=artillery
+		home=704
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=483
+	regiment = {
+		name="1st Mariupol Infantry"
+		type=infantry
+		home=976
+	}
+	regiment = {
+		name="1st Breslau Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="1st Tarnopol Infantry"
+		type=infantry
+		home=952
+	}
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Polotsk Cavalry"
+		type=cavalry
+		home=946
+	}
+	regiment = {
+		name="1st Breslau Cavalry"
+		type=cavalry
+		home=682
+	}
+	regiment = {
+		name="2nd Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="2nd Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+	regiment = {
+		name="1st Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+	regiment = {
+		name="2nd Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Elbing Artillery"
+		type=artillery
+		home=693
+	}
+}
+
+army = {
+	name="Armia z Ostróda"
+	location=558
+	regiment = {
+		name="2nd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Lomza Infantry"
+		type=infantry
+		home=709
+	}
+	regiment = {
+		name="1st Torun Cavalry"
+		type=cavalry
+		home=694
+	}
+	regiment = {
+		name="1st Ventspils Cavalry"
+		type=cavalry
+		home=358
+	}
+	regiment = {
+		name="1st Tarnopol Cavalry"
+		type=cavalry
+		home=952
+	}
+	regiment = {
+		name="3rd Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="4th Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Bromberg Artillery"
+		type=artillery
+		home=700
+	}
+	regiment = {
+		name="1st Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="1st Lodz Cavalry"
+		type=cavalry
+		home=712
+	}
+}
+
+army = {
+	name="Armia z Plock"
+	location=592
+	regiment = {
+		name="2nd Tarnopol Infantry"
+		type=infantry
+		home=952
+	}
+	regiment = {
+		name="2nd Breslau Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="3rd Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="1st Siauliai Cavalry"
+		type=cavalry
+		home=364
+	}
+	regiment = {
+		name="1st Migulinskaya Artillery"
+		type=artillery
+		home=1045
+	}
+	regiment = {
+		name="1st Bryansk Artillery"
+		type=artillery
+		home=1016
+	}
+	regiment = {
+		name="3rd Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Tuchel Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="1st Valmiera Cavalry"
+		type=cavalry
+		home=355
+	}
+	regiment = {
+		name="1st Lemberg Artillery"
+		type=artillery
+		home=702
+	}
+}
+
+army = {
+	name="1st Army"
+	location=594
+	regiment = {
+		name="2nd Lublin Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="1st Krakow Infantry"
+		type=infantry
+		home=703
+	}
+	regiment = {
+		name="1st Oppeln Cavalry"
+		type=cavalry
+		home=684
+	}
+	regiment = {
+		name="1st Krakow Artillery"
+		type=artillery
+		home=703
+	}
+	regiment = {
+		name="1st Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="1st Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="2nd Tarnopol Artillery"
+		type=artillery
+		home=952
+	}
+	regiment = {
+		name="1st Oppeln Infantry"
+		type=infantry
+		home=684
+	}
+	regiment = {
+		name="1st Waldenburg Cavalry"
+		type=cavalry
+		home=683
+	}
+	regiment = {
+		name="7th Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+}
+
+army = {
+	name="Armia z Chelmno"
+	location=611
+	regiment = {
+		name="1st Luhansk Infantry"
+		type=infantry
+		home=980
+	}
+	regiment = {
+		name="1st Slutsk Infantry"
+		type=infantry
+		home=941
+	}
+	regiment = {
+		name="1st Poltava Cavalry"
+		type=cavalry
+		home=963
+	}
+	regiment = {
+		name="1st Oppeln Artillery"
+		type=artillery
+		home=684
+	}
+	regiment = {
+		name="2nd Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="1st Lublin Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="1st Tsaritsyn Artillery"
+		type=artillery
+		home=1039
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=364
+	}
+	regiment = {
+		name="1st Kovel Cavalry"
+		type=cavalry
+		home=957
+	}
+	regiment = {
+		name="3rd Przemysl Artillery"
+		type=artillery
+		home=705
+	}
+}
+
+army = {
+	name="Armia z Slavonia"
+	location=592
+	regiment = {
+		name="1st Siedlce Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Kielce Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="2nd Breslau Cavalry"
+		type=cavalry
+		home=682
+	}
+	regiment = {
+		name="2nd Torun Cavalry"
+		type=cavalry
+		home=694
+	}
+	regiment = {
+		name="5th Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="4th Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="2nd Krakow Artillery"
+		type=artillery
+		home=703
+	}
+	regiment = {
+		name="3rd Tarnopol Artillery"
+		type=artillery
+		home=952
+	}
+	regiment = {
+		name="2nd Torun Artillery"
+		type=artillery
+		home=694
+	}
+	regiment = {
+		name="1st Vilnius Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Kaunas Cavalry"
+		type=cavalry
+		home=361
+	}
+	regiment = {
+		name="6th Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+}
+
+army = {
+	name="Armia z Czeboksary"
+	location=687
+	regiment = {
+		name="2nd Pinsk Infantry"
+		type=infantry
+		home=940
+	}
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Krakow Cavalry"
+		type=cavalry
+		home=703
+	}
+	regiment = {
+		name="1st Palanga Artillery"
+		type=artillery
+		home=365
+	}
+	regiment = {
+		name="2nd Oppeln Artillery"
+		type=artillery
+		home=684
+	}
+	regiment = {
+		name="5th Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Kharkov Artillery"
+		type=artillery
+		home=978
+	}
+	regiment = {
+		name="1st Belgorod Cavalry"
+		type=cavalry
+		home=1018
+	}
+}
+
+army = {
+	name="Armia z Warszawa"
+	location=620
+	regiment = {
+		name="1st Radom Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="2nd Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="2nd Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="2nd Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="1st Daugavpils Artillery"
+		type=artillery
+		home=356
+	}
+	regiment = {
+		name="3rd Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="1st Luhansk Artillery"
+		type=artillery
+		home=980
+	}
+	regiment = {
+		name="2nd Lublin Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="2nd Przemysl Artillery"
+		type=artillery
+		home=705
+	}
+}
+
+army = {
+	name="Armia z Checiny"
+	location=592
+	regiment = {
+		name="1st Gumbinnen Infantry"
+		type=infantry
+		home=697
+	}
+	regiment = {
+		name="1st Rostov Infantry"
+		type=infantry
+		home=979
+	}
+	regiment = {
+		name="1st Chernigov Artillery"
+		type=artillery
+		home=962
+	}
+	regiment = {
+		name="2nd Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+	regiment = {
+		name="6th Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="3rd Torun Artillery"
+		type=artillery
+		home=694
+	}
+	regiment = {
+		name="2nd Tuchel Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="2nd Kattowitz Artillery"
+		type=artillery
+		home=685
+	}
+}
+
+army = {
+	name="Armia z Malbork"
+	location=628
+	regiment = {
+		name="2nd Siedlce Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="2nd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Tarnow Artillery"
+		type=artillery
+		home=714
+	}
+	regiment = {
+		name="2nd Kharkov Artillery"
+		type=artillery
+		home=978
+	}
+	regiment = {
+		name="3rd Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+	regiment = {
+		name="1st Valmiera Artillery"
+		type=artillery
+		home=355
+	}
+	regiment = {
+		name="4th Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="3rd Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=695
+	ship = {
+		name="Mindaugas"
+		type=frigate
+	}
+	ship = {
+		name="Butigeidis"
+		type=frigate
+	}
+	ship = {
+		name="Vytenis"
+		type=frigate
+	}
+	ship = {
+		name="Gediminas"
+		type=frigate
+	}
+	ship = {
+		name="Algirdas"
+		type=frigate
+	}
+	ship = {
+		name="Kestutis"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armia z Yuriev"
+	location=592
+	regiment = {
+		name="3rd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="3rd Breslau Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="1st Tsaritsyn Cavalry"
+		type=cavalry
+		home=1039
+	}
+	regiment = {
+		name="1st Radom Artillery"
+		type=artillery
+		home=713
+	}
+	regiment = {
+		name="1st Vilnius Artillery"
+		type=artillery
+		home=360
+	}
+	regiment = {
+		name="2nd Valmiera Artillery"
+		type=artillery
+		home=355
+	}
+	regiment = {
+		name="1st Velikiye Luki Artillery"
+		type=artillery
+		home=1007
+	}
+}
+
+army = {
+	name="Armia z Ustyug"
+	location=626
+	regiment = {
+		name="2nd Gumbinnen Infantry"
+		type=infantry
+		home=697
+	}
+	regiment = {
+		name="1st Mozyr Infantry"
+		type=infantry
+		home=942
+	}
+	regiment = {
+		name="1st Kielce Cavalry"
+		type=cavalry
+		home=716
+	}
+	regiment = {
+		name="2nd Migulinskaya Artillery"
+		type=artillery
+		home=1045
+	}
+	regiment = {
+		name="1st Kattowitz Artillery"
+		type=artillery
+		home=685
+	}
+	regiment = {
+		name="4th Tarnopol Artillery"
+		type=artillery
+		home=952
+	}
+	regiment = {
+		name="1st Kursk Artillery"
+		type=artillery
+		home=977
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=695
+	ship = {
+		name="Jogaila"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2710
+	ship = {
+		name="1st Burgas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stettin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kalmar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Commonwealth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Odessa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Narva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Izmail Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Izmail Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dubai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Reval Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Izmail Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ventspils Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Christianssand Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Memel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Simferopol Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Jelgava Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kalmar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Danzig Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antakya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Narva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Valmiera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nikolaev Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Vytautas Didysis"
+		type=frigate
+	}
+	ship = {
+		name="Zygimantas Kestutaitis"
+		type=frigate
+	}
+	ship = {
+		name="2nd Odessa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stettin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Greifswald Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stettin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Danzig Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Constanta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tulcea Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ventspils Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Odessa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kherson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Onega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Odessa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kiel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Onega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kherson Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armia z Kraków"
+	location=605
+	regiment = {
+		name="2nd Krakow Infantry"
+		type=infantry
+		home=703
+	}
+	regiment = {
+		name="7th Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="3rd Krakow Infantry"
+		type=infantry
+		home=703
+	}
+}
+

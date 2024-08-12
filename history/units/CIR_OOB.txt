@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+AVR = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

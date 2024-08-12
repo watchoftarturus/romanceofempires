@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=CRI
+add_core=KHO
+add_core=NOG
+add_core=RUS
+trade_goods = wool
+life_rating = 35
+fort = 1

@@ -1,0 +1,9 @@
+owner=MNX
+controller=MNX
+add_core=IDO
+add_core=LNA
+add_core=LUA
+add_core=MNX
+trade_goods = grain
+life_rating = 31
+fort = 1

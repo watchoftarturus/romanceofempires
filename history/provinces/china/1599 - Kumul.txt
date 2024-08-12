@@ -1,0 +1,7 @@
+owner=MNX
+controller=MNX
+add_core=CHG
+add_core=MGL
+trade_goods = grain
+life_rating = 32
+fort = 1

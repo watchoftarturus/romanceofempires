@@ -1,0 +1,7 @@
+owner=INO
+controller=INO
+add_core=MNA
+add_core=TDO
+trade_goods = fish
+life_rating = 35
+fort = 1

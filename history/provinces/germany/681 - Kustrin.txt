@@ -1,0 +1,7 @@
+owner=SAX
+controller=SAX
+add_core=BOH
+add_core=HLR
+add_core=WSF
+trade_goods = grain
+life_rating = 40

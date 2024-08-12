@@ -1,0 +1,8 @@
+owner=MNX
+controller=MNX
+add_core=KOR
+add_core=MNX
+trade_goods = silk
+life_rating = 31
+naval_base = 1
+fort = 1

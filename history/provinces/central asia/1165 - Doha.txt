@@ -1,0 +1,9 @@
+owner=PER
+controller=PER
+add_core=ALH
+add_core=ARA
+add_core=PER
+trade_goods = fish
+life_rating = 34
+terrain = semidesert
+naval_base = 2

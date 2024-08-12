@@ -1,0 +1,9 @@
+owner=TUS
+controller=TUS
+add_core=ITA
+add_core=SVY
+add_core=TUS
+add_core=X05
+trade_goods = fruit
+life_rating = 40
+fort = 1

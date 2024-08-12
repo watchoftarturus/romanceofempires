@@ -1,0 +1,15 @@
+owner=BAV
+controller=BAV
+add_core=AUS
+add_core=BOH
+add_core=HLR
+add_core=WSF
+trade_goods = coal
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

@@ -1,0 +1,7 @@
+owner=HLL
+controller=HLL
+add_core=HLR
+add_core=UTR
+trade_goods = grain
+life_rating = 35
+fort = 1

@@ -1,0 +1,22 @@
+#Sphere of Influence
+
+CLM = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+TRO = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

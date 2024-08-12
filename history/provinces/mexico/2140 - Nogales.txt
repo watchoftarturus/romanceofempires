@@ -1,0 +1,6 @@
+owner=JAP
+controller=JAP
+add_core=APA
+trade_goods = grain
+life_rating = 32
+terrain = new_world_semidesert

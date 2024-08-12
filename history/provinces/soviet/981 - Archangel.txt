@@ -1,0 +1,9 @@
+owner=RUS
+controller=RUS
+add_core=NVG
+add_core=RUS
+trade_goods = timber
+life_rating = 15
+terrain = boreal
+naval_base = 1
+fort = 1

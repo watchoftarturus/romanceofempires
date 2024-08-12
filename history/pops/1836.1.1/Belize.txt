@@ -1,0 +1,170 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2125
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 312
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5237
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = catholic
+		size= 7352
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1061
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2569
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 480
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 16202
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = shinto
+		size= 843
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = shinto
+		size= 122
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = shinto
+		size= 648
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = shinto
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = shinto
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = shinto
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = shinto
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = shinto
+		size= 1400
+	}
+
+}

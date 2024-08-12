@@ -1,0 +1,6 @@
+owner=ALB
+controller=PER
+add_core=ALB
+add_core=TUR
+trade_goods = fish
+life_rating = 35

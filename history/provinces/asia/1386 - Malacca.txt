@@ -1,0 +1,7 @@
+owner=INO
+controller=INO
+add_core=INO
+add_core=MLY
+trade_goods = tropical_wood
+life_rating = 37
+fort = 1

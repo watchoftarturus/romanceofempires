@@ -1,0 +1,10 @@
+owner=SIA
+controller=SIA
+add_core=BUR
+add_core=IDO
+add_core=PEG
+add_core=SIA
+trade_goods = grain
+life_rating = 35
+naval_base = 2
+fort = 1

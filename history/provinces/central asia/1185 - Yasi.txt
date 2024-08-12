@@ -1,0 +1,8 @@
+owner=SHY
+controller=SHY
+add_core=CHG
+add_core=KAZ
+add_core=KHO
+add_core=SHY
+trade_goods = wool
+life_rating = 30

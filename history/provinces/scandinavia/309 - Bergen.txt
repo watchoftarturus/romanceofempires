@@ -1,0 +1,14 @@
+owner=NOR
+controller=NOR
+add_core=NOR
+add_core=SCA
+trade_goods = iron
+life_rating = 20
+terrain = montane_tundra
+naval_base = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

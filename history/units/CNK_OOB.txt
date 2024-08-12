@@ -1,0 +1,14 @@
+#Sphere of Influence
+
+CNK = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

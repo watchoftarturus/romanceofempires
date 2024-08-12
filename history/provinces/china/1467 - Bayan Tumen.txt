@@ -1,0 +1,7 @@
+owner=MNX
+controller=MNX
+add_core=KLK
+add_core=MGL
+add_core=MNX
+trade_goods = cattle
+life_rating = 32

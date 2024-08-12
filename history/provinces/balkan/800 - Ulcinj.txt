@@ -1,0 +1,7 @@
+owner=TUS
+controller=TUS
+add_core=SER
+add_core=TUS
+add_core=YUG
+trade_goods = grain
+life_rating = 35

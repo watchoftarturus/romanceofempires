@@ -1,0 +1,5 @@
+owner=GRE
+controller=DLH
+add_core=GRE
+trade_goods = wool
+life_rating = 35

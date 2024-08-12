@@ -1,0 +1,7 @@
+owner=HLL
+controller=HLL
+add_core=FRI
+add_core=HLR
+trade_goods = cattle
+life_rating = 35
+fort = 1

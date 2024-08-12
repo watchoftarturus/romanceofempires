@@ -1,0 +1,8 @@
+owner=MEX
+controller=MEX
+add_core=HST
+add_core=ITZ
+add_core=KIC
+trade_goods = timber
+life_rating = 33
+colonial=2

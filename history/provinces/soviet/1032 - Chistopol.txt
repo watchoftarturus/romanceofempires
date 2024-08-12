@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=KHO
+add_core=KZN
+add_core=RUS
+trade_goods = iron
+life_rating = 35

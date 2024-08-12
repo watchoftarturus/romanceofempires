@@ -1,0 +1,8 @@
+owner=INO
+controller=INO
+add_core=BRU
+add_core=INO
+add_core=MLY
+trade_goods = grain
+life_rating = 32
+naval_base = 2

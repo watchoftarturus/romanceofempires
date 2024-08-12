@@ -1,0 +1,8 @@
+owner=INO
+controller=INO
+add_core=MNA
+add_core=TDO
+trade_goods = coffee
+life_rating = 40
+naval_base = 2
+fort = 1

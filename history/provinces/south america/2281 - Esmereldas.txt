@@ -1,0 +1,6 @@
+owner=JAP
+controller=JAP
+add_core=CLM
+add_core=QTO
+trade_goods = grain
+life_rating = 35

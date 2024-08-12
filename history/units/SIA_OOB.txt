@@ -1,0 +1,991 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALS = {
+	value = 0
+	level = 2
+}
+ANS = {
+	value = 0
+	level = 2
+}
+ASI = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATM = {
+	value = 0
+	level = 2
+}
+AUE = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AVR = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = -103
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAD = {
+	value = 0
+	level = 2
+}
+CAQ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+DTT = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FRI = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+INO = {
+	value = -44
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNZ = {
+	value = 0
+	level = 2
+}
+KZN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 12
+	level = 2
+}
+MAI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MKA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 121
+	influence_value = 17
+	level = 2
+}
+MSC = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NTC = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 31
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RVA = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SHY = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+WES = {
+	value = 0
+	level = 2
+}
+WUR = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Uthumphon I Suphannaphum"
+	date="1804.10.24"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Narai Hitapot"
+	date="1804.10.28"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Keo Fa Kriangsak"
+	date="1804.10.30"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Rama Hitapot"
+	date="1804.11.1"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1345
+	regiment = {
+		name="1st Taunggyi Irregulars"
+		type=irregular
+		home=1338
+	}
+	regiment = {
+		name="1st Nakhon Sawan Irregulars"
+		type=irregular
+		home=1348
+	}
+	regiment = {
+		name="1st Udon Thani Cavalry"
+		type=cavalry
+		home=1358
+	}
+	regiment = {
+		name="1st Stongtreng Artillery"
+		type=artillery
+		home=1368
+	}
+	regiment = {
+		name="1st Taunggyi Artillery"
+		type=artillery
+		home=1338
+	}
+	regiment = {
+		name="1st Phnom Penh Artillery"
+		type=artillery
+		home=1364
+	}
+	regiment = {
+		name="1st Dong Quai Irregulars"
+		type=irregular
+		home=1381
+	}
+	regiment = {
+		name="1st Nakhon Ratchasima Cavalry"
+		type=cavalry
+		home=1350
+	}
+	regiment = {
+		name="1st Stongtreng Cavalry"
+		type=cavalry
+		home=1368
+	}
+	regiment = {
+		name="1st Xiangabouli Cavalry"
+		type=cavalry
+		home=1360
+	}
+	regiment = {
+		name="1st Nakhon Sawan Cavalry"
+		type=cavalry
+		home=1348
+	}
+	regiment = {
+		name="5th Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1366
+	regiment = {
+		name="1st Phnom Penh Irregulars"
+		type=irregular
+		home=1364
+	}
+	regiment = {
+		name="1st Udon Thani Artillery"
+		type=artillery
+		home=1358
+	}
+	regiment = {
+		name="2nd Taunggyi Artillery"
+		type=artillery
+		home=1338
+	}
+	regiment = {
+		name="1st Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+	regiment = {
+		name="1st Lashio Artillery"
+		type=artillery
+		home=1340
+	}
+	regiment = {
+		name="1st Battambang Artillery"
+		type=artillery
+		home=1366
+	}
+	regiment = {
+		name="2nd Phnom Penh Artillery"
+		type=artillery
+		home=1364
+	}
+	regiment = {
+		name="3rd Taunggyi Irregulars"
+		type=irregular
+		home=1338
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=1383
+	ship = {
+		name="Nakhon Ratchasima"
+		type=frigate
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1330
+	regiment = {
+		name="1st Savannakhet Artillery"
+		type=artillery
+		home=1361
+	}
+	regiment = {
+		name="1st Pakse Artillery"
+		type=artillery
+		home=1363
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1359
+	regiment = {
+		name="1st Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="1st Vientiane Artillery"
+		type=artillery
+		home=1357
+	}
+	regiment = {
+		name="2nd Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+	regiment = {
+		name="1st Sisaket Artillery"
+		type=artillery
+		home=1359
+	}
+	regiment = {
+		name="1st Xiangabouli Artillery"
+		type=artillery
+		home=1360
+	}
+	regiment = {
+		name="2nd Nakhon Sawan Irregulars"
+		type=irregular
+		home=1348
+	}
+	regiment = {
+		name="4th Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1364
+	regiment = {
+		name="1st Salavan Artillery"
+		type=artillery
+		home=1362
+	}
+	regiment = {
+		name="2nd Salavan Artillery"
+		type=artillery
+		home=1362
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1367
+	regiment = {
+		name="2nd Taunggyi Irregulars"
+		type=irregular
+		home=1338
+	}
+	regiment = {
+		name="1st Udon Thani Irregulars"
+		type=irregular
+		home=1358
+	}
+	regiment = {
+		name="3rd Phnom Penh Artillery"
+		type=artillery
+		home=1364
+	}
+	regiment = {
+		name="2nd Udon Thani Artillery"
+		type=artillery
+		home=1358
+	}
+	regiment = {
+		name="3rd Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+	regiment = {
+		name="1st Pleiku Irregulars"
+		type=irregular
+		home=1378
+	}
+	regiment = {
+		name="3rd Sisaket Artillery"
+		type=artillery
+		home=1359
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1367
+	regiment = {
+		name="1st Kyaukse Irregulars"
+		type=irregular
+		home=1335
+	}
+	regiment = {
+		name="2nd Stongtreng Artillery"
+		type=artillery
+		home=1368
+	}
+	regiment = {
+		name="1st Sukhothai Artillery"
+		type=artillery
+		home=1349
+	}
+	regiment = {
+		name="2nd Vientiane Artillery"
+		type=artillery
+		home=1357
+	}
+	regiment = {
+		name="2nd Sisaket Artillery"
+		type=artillery
+		home=1359
+	}
+	regiment = {
+		name="2nd Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="6th Nakhon Sawan Artillery"
+		type=artillery
+		home=1348
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1365
+	ship = {
+		name="Ban Bong"
+		type=manowar
+	}
+	ship = {
+		name="Butsabong Chi"
+		type=manowar
+	}
+	ship = {
+		name="chorakhe Sam"
+		type=manowar
+	}
+	ship = {
+		name="Dom Noi"
+		type=manowar
+	}
+	ship = {
+		name="Hanuman"
+		type=manowar
+	}
+	ship = {
+		name="Ing"
+		type=manowar
+	}
+	ship = {
+		name="Kam Mi"
+		type=manowar
+	}
+	ship = {
+		name="Buriram"
+		type=frigate
+	}
+	ship = {
+		name="Surin"
+		type=frigate
+	}
+	ship = {
+		name="Si Sa Ket"
+		type=frigate
+	}
+	ship = {
+		name="Ubon Ratchathani"
+		type=frigate
+	}
+	ship = {
+		name="Amnat Charoen"
+		type=frigate
+	}
+	ship = {
+		name="Yasothon"
+		type=frigate
+	}
+	ship = {
+		name="Khwae Yai"
+		type=manowar
+	}
+	ship = {
+		name="Nakhon Phanom"
+		type=frigate
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=1332
+	ship = {
+		name="Roi Et"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2822
+	ship = {
+		name="Mahasarakham"
+		type=frigate
+	}
+	ship = {
+		name="Kalasin"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1365
+	ship = {
+		name="Khon Kaen"
+		type=frigate
+	}
+	ship = {
+		name="Mukdahan"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2572
+	regiment = {
+		name="1st Chiang Mai Irregulars"
+		type=irregular
+		home=1355
+	}
+	regiment = {
+		name="1st Chiang Mai Artillery"
+		type=artillery
+		home=1355
+	}
+	regiment = {
+		name="1st Nan Irregulars"
+		type=irregular
+		home=2572
+	}
+	regiment = {
+		name="3rd Nan Artillery"
+		type=artillery
+		home=2572
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2572
+	regiment = {
+		name="1st Nan Artillery"
+		type=artillery
+		home=2572
+	}
+	regiment = {
+		name="2nd Nan Artillery"
+		type=artillery
+		home=2572
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1333
+	regiment = {
+		name="1st Ava Irregulars"
+		type=irregular
+		home=1334
+	}
+	regiment = {
+		name="2nd Ava Irregulars"
+		type=irregular
+		home=1334
+	}
+	regiment = {
+		name="1st Kyaukse Cavalry"
+		type=cavalry
+		home=1335
+	}
+	regiment = {
+		name="1st Toungoo Artillery"
+		type=artillery
+		home=1333
+	}
+	regiment = {
+		name="2nd Toungoo Artillery"
+		type=artillery
+		home=1333
+	}
+	regiment = {
+		name="1st Ava Cavalry"
+		type=cavalry
+		home=1334
+	}
+	regiment = {
+		name="1st Magwe Cavalry"
+		type=cavalry
+		home=1336
+	}
+	regiment = {
+		name="2nd Ava Cavalry"
+		type=cavalry
+		home=1334
+	}
+	regiment = {
+		name="3rd Ava Cavalry"
+		type=cavalry
+		home=1334
+	}
+	regiment = {
+		name="3rd Toungoo Artillery"
+		type=artillery
+		home=1333
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1334
+	regiment = {
+		name="1st Prome Irregulars"
+		type=irregular
+		home=1337
+	}
+	regiment = {
+		name="2nd Prome Irregulars"
+		type=irregular
+		home=1337
+	}
+	regiment = {
+		name="1st Kyaukse Artillery"
+		type=artillery
+		home=1335
+	}
+	regiment = {
+		name="1st Ava Artillery"
+		type=artillery
+		home=1334
+	}
+	regiment = {
+		name="3rd Ava Irregulars"
+		type=irregular
+		home=1334
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2819
+	ship = {
+		name="Chaiyaphum"
+		type=frigate
+	}
+	ship = {
+		name="Sakon Nakhon"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1379
+	ship = {
+		name="Loei"
+		type=frigate
+	}
+	ship = {
+		name="Nong Bualumphu"
+		type=frigate
+	}
+	ship = {
+		name="Udon Thani"
+		type=frigate
+	}
+	ship = {
+		name="Nong Khai"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1379
+	regiment = {
+		name="1st Qui Nhon Irregulars"
+		type=irregular
+		home=1379
+	}
+	regiment = {
+		name="1st Qui Nhon Artillery"
+		type=artillery
+		home=1379
+	}
+}
+

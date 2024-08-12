@@ -1,0 +1,8 @@
+owner=INO
+controller=INO
+add_core=INO
+add_core=MGD
+add_core=TTE
+trade_goods = iron
+life_rating = 35
+naval_base = 2

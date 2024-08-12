@@ -1,0 +1,6 @@
+owner=POR
+controller=POR
+add_core=CCQ
+add_core=URU
+trade_goods = wool
+life_rating = 35

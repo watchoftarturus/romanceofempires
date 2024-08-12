@@ -1,0 +1,8 @@
+owner=INO
+controller=INO
+add_core=BAL
+add_core=INO
+add_core=MJP
+trade_goods = sulphur
+life_rating = 35
+fort = 1

@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=CEQ
+add_core=TUA
+trade_goods = cattle
+life_rating = 31
+terrain = savanna

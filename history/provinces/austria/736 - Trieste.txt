@@ -1,0 +1,15 @@
+owner=TUS
+controller=TUS
+add_core=HLR
+add_core=TUS
+add_core=VEN
+add_core=YUG
+trade_goods = grain
+life_rating = 40
+naval_base = 2
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

@@ -1,0 +1,40 @@
+guarantee=
+{
+	first="ALB"
+	second="GRE"
+	start_date="1807.4.28"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="WES"
+	second="ALS"
+	start_date="1796.12.2"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SPA"
+	second="PAP"
+	start_date="1787.6.24"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="TUN"
+	second="GRE"
+	start_date="1807.5.3"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="TUN"
+	second="ALB"
+	start_date="1807.6.13"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,8 @@
+owner=PLC
+controller=PLC
+add_core=CRI
+add_core=PLC
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+naval_base = 1

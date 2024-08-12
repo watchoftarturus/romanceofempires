@@ -1,0 +1,7 @@
+owner=CRI
+controller=CRI
+add_core=CIR
+add_core=CRI
+add_core=TBZ
+trade_goods = grain
+life_rating = 35

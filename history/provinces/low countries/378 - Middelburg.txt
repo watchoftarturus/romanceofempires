@@ -1,0 +1,14 @@
+owner=HLL
+controller=HLL
+add_core=HLL
+add_core=HLR
+add_core=UTR
+trade_goods = fish
+life_rating = 35
+naval_base = 2
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

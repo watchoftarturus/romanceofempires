@@ -1,0 +1,5 @@
+owner=SHY
+controller=SHY
+add_core=CHG
+trade_goods = cotton
+life_rating = 32

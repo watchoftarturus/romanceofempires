@@ -1,0 +1,200 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 304
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 132
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 10396
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 6730
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 134
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 807
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 1066
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 29723
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = totemism
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = totemism
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = totemism
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 10292
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 6663
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 132
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 798
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 1056
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 29429
+	}
+
+}

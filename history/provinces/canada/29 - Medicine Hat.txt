@@ -1,0 +1,9 @@
+owner=SHY
+controller=SHY
+add_core=CHG
+add_core=KAZ
+add_core=KHO
+add_core=SHY
+trade_goods = fruit
+life_rating = 15
+terrain = desert

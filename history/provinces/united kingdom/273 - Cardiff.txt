@@ -1,0 +1,13 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=WHA
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

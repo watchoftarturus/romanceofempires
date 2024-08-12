@@ -1,0 +1,16 @@
+owner=HAN
+controller=HAN
+add_core=GER
+add_core=HAM
+add_core=HAN
+add_core=HLR
+add_core=LAU
+trade_goods = grain
+life_rating = 40
+fort = 1
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

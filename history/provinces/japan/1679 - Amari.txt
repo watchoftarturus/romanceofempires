@@ -1,0 +1,8 @@
+owner=MNX
+controller=MNX
+add_core=JAP
+add_core=MNX
+add_core=RYU
+trade_goods = fish
+life_rating = 35
+terrain = small_island

@@ -1,0 +1,6 @@
+owner=POR
+controller=POR
+add_core=CSU
+add_core=URU
+trade_goods = precious_metal
+life_rating = 35

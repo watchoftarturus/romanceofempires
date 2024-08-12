@@ -1,0 +1,7 @@
+owner=POR
+controller=POR
+add_core=GRI
+add_core=URU
+trade_goods = cotton
+life_rating = 15
+terrain = savanna

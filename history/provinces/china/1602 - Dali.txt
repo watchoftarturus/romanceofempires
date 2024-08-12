@@ -1,0 +1,9 @@
+owner=MNX
+controller=MNX
+add_core=BUR
+add_core=IDO
+add_core=MMA
+add_core=MNX
+trade_goods = timber
+life_rating = 32
+fort = 1

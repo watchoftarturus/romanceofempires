@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=CLM
+add_core=QTO
+trade_goods = wool
+life_rating = 33
+terrain = montane_forest

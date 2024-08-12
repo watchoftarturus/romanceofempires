@@ -1,0 +1,8 @@
+owner=MEX
+controller=MEX
+add_core=HST
+add_core=LAC
+add_core=ZAP
+trade_goods = cotton
+life_rating = 31
+colonial=2

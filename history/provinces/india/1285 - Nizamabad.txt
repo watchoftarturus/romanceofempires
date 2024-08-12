@@ -1,0 +1,9 @@
+owner=VIJ
+controller=VIJ
+add_core=BMN
+add_core=HND
+add_core=MRT
+add_core=VIJ
+trade_goods = fruit
+life_rating = 32
+fort = 1

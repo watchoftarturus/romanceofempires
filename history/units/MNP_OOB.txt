@@ -1,0 +1,26 @@
+#Sphere of Influence
+
+BNG = {
+	value = 0
+	level = 2
+}
+HAW = {
+	value = 0
+	level = 2
+}
+MNP = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

@@ -1,0 +1,8 @@
+owner=INO
+controller=INO
+add_core=INO
+add_core=MGD
+trade_goods = tobacco
+life_rating = 35
+naval_base = 2
+fort = 1
