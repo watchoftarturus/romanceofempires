@@ -1,5 +1,5 @@
-owner=DTT
-controller=DTT
+owner=HAN
+controller=HAN
 add_core=DTT
 add_core=GER
 add_core=HLR

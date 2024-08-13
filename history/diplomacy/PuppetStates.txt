@@ -28,7 +28,7 @@ vassal=
 vassal=
 {
 	first="TUS"
-	second="YUG"
+	second="BOS"
 	start_date="1809.4.24"
 	end_date="1936.1.1"
 }

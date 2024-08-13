@@ -1,5 +1,6 @@
-owner=YUG
-controller=YUG
+owner=BOS
+controller=BOS
+add_core=BOS
 add_core=TUS
 add_core=YUG
 trade_goods = grain

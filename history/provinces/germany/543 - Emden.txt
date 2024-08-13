@@ -1,5 +1,6 @@
-owner=HLL
-controller=HLL
+owner=HAN
+controller=HAN
+add_core=HAN
 add_core=HLR
 trade_goods = fish
 life_rating = 40

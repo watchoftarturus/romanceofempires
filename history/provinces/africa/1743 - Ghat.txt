@@ -1,5 +1,5 @@
-owner=HLL
-controller=HLL
+owner=HAN
+controller=HAN
 add_core=GER
 add_core=HAN
 add_core=HLR

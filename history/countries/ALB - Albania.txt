@@ -1,4 +1,4 @@
-capital = 843
+capital = 860
 primary_culture = dummy
 culture = albanian
 culture = turkish
