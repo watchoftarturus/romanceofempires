@@ -1,119 +1,31 @@
 alliance=
 {
-	first="PLC"
-	second="TUS"
-	start_date="1561.10.6"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="FRA"
-	second="WUR"
-	start_date="1733.10.30"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="ANS"
-	second="WES"
-	start_date="1654.1.31"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="ANS"
-	second="HAN"
-	start_date="1775.9.9"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="HAN"
-	second="MAI"
-	start_date="1754.2.2"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="MAI"
-	second="WES"
+	first="SAX"
+	second="RUS"
 	start_date="1445.5.10"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="SAX"
-	second="ANS"
-	start_date="1801.10.21"
+	first="BAV"
+	second="HUN"
+	start_date="1445.5.10"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="WES"
-	second="WUR"
-	start_date="1444.11.14"
+	first="GRE"
+	second="SER"
+	start_date="1445.5.10"
 	end_date="1936.1.1"
 }
 
 alliance=
 {
-	first="WES"
-	second="SAX"
-	start_date="1789.1.4"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="WUR"
-	second="BAV"
-	start_date="1445.3.22"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="WUR"
-	second="MAI"
-	start_date="1670.6.20"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="MHR"
-	second="SWA"
-	start_date="1651.2.5"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="SHY"
-	second="PER"
-	start_date="1658.10.13"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="SHY"
-	second="BNG"
-	start_date="1766.5.23"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="SWA"
-	second="EGY"
-	start_date="1747.9.24"
+	first="MEX"
+	second="ENG"
+	start_date="1445.5.10"
 	end_date="1936.1.1"
 }

@@ -1,6 +1,8 @@
 capital = 2173
 primary_culture = mexican
 culture = nahua
+culture = zapotec
+culture = mayan
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy
@@ -20,7 +22,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=state_equal_weight
 voting_system=first_past_the_post
@@ -28,8 +30,9 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
+border_policy=open_borders
 
-ruling_party = MEX_liberal
+ruling_party = MEX_conservative
 upper_house = 
 {
 	fascist = 0
