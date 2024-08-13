@@ -1,6 +1,6 @@
-owner=PLC
-controller=PLC
+owner=RUS
+controller=RUS
 add_core=CRI
-add_core=PLC
+add_core=RUS
 trade_goods = cattle
 life_rating = 35

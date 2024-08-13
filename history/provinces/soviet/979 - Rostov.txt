@@ -1,7 +1,7 @@
-owner=PLC
-controller=PLC
+owner=RUS
+controller=RUS
+add_core=RUS
 add_core=CRI
-add_core=PLC
 trade_goods = coal
 life_rating = 40
 terrain = mining_district
