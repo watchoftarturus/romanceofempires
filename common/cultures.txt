@@ -118,7 +118,9 @@ american_cultures = {
 	}
 	
 	union = USA
-	
+		
+	}
+
 }
 
 anti_human = {
@@ -6220,4 +6222,15 @@ zzz_religions = {
 	}
 	
 }
+
+zach = { 
+        leader = european
+	unit = PrussianGC
+	
+                zach = {
+	        color = { 65 65 129 }
+		
+	        first_names = { "Zach"}
+		
+		last_names = { "Blum" }
 

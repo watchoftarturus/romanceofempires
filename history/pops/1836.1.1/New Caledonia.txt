@@ -1,9 +1,9 @@
 1097 = {
 	aristocrats=
 	{
-		culture = melanesian
+		culture = zach
 		religion = animist
-		size= 100
+		size= 50000
 	}
 
 	clergymen=

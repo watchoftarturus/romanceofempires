@@ -254,6 +254,75 @@
 		religion = catholic
 		size= 506
 	}
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size= 5881
+	}
+
+	craftsmen=
+	{
+		culture = polish
+		religion = catholic
+		size= 5495
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size= 10973
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size= 808
+	}
+
+	clerks=
+	{
+		culture = polish
+		religion = catholic
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 408
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size= 254
+	}
+
+	capitalists=
+	{
+		culture = polish
+		religion = catholic
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 920
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = catholic
+		size= 55343
+	}
 
 }
 950 = {
