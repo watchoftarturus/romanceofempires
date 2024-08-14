@@ -115,8 +115,8 @@ political_decisions = {
 			MEX_85 = { add_core = CAL } #California
 			SPA_2209 = { add_core = CUB } #Cuba
 			HAI_2213 = { add_core = HAI } #Haiti
-			2214 = { add_core = DOM } #Santo Domingo
-			2216 = { add_core = DOM }
+			2214 = { add_core = DMN } #Santo Domingo
+			2216 = { add_core = DMN }
 			UCA_2201 = { #Costa Rica
 				add_core = COS
 				add_core = UCA
@@ -308,7 +308,7 @@ political_decisions = {
 			any_country = { limit = { tag = CAL	 NOT = { exists = CAL } } set_country_flag = buro_independence }
 			any_country = { limit = { tag = CUB	 NOT = { exists = CUB } } set_country_flag = buro_independence }
 			any_country = { limit = { tag = HAI	 NOT = { exists = HAI } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = DOM	 NOT = { exists = DOM } } set_country_flag = buro_independence }
+			any_country = { limit = { tag = DMN	 NOT = { exists = DMN } } set_country_flag = buro_independence }
 			any_country = { limit = { tag = UCA	 NOT = { exists = UCA } } set_country_flag = buro_independence }
 			any_country = { limit = { tag = COS	 NOT = { exists = COS } } set_country_flag = buro_independence }
 			any_country = { limit = { tag = HON	 NOT = { exists = HON } } set_country_flag = buro_independence }
@@ -903,7 +903,7 @@ political_decisions = {
 	postcol_HAI = {
 		potential = {
 			NOT = { exists = HAI }
-			NOT = { tag = DOM }
+			NOT = { tag = DMN }
 			capital_scope = { is_core = HAI }
 			OR = {
 				primary_culture = french
@@ -932,24 +932,24 @@ political_decisions = {
 		
 		effect = {
 			prestige = 10
-			2213 = { remove_core = DOM } # To avoid Haiti disappearing
+			2213 = { remove_core = DMN } # To avoid Haiti disappearing
 			any_owned = {
 				add_core = HAI
 			}
 			change_tag = HAI
 			capital = 2213
-			release_vassal = DOM
+			release_vassal = DMN
 			set_country_flag = postcol_1
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-	postcol_DOM = {
+	postcol_DMN = {
 		potential = {
-			NOT = { exists = DOM }
+			NOT = { exists = DMN }
 			NOT = { tag = HAI }
-			capital_scope = { is_core = DOM }
+			capital_scope = { is_core = DMN }
 			NOT = {
 				primary_culture = french
 				primary_culture = nouvellien
@@ -962,7 +962,7 @@ political_decisions = {
 		allow = {
 			war = no
 			is_independant = yes
-			DOM = {
+			DMN = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -979,9 +979,9 @@ political_decisions = {
 			prestige = 10
 			2214 = { remove_core = HAI } #Same as for Haiti
 			any_owned = {
-				add_core = DOM
+				add_core = DMN
 			}
-			change_tag = DOM
+			change_tag = DMN
 			capital = 2214
 			release_vassal = HAI
 			set_country_flag = postcol_1
@@ -2073,7 +2073,7 @@ political_decisions = {
 				exists = CRB
 				tag = CUB
 				tag = HAI
-				tag = DOM
+				tag = DMN
 			}
 			NOT = { has_country_flag = precolonial }
 			OR = {
@@ -2164,7 +2164,7 @@ political_decisions = {
 				exists = CRB
 				tag = CUB
 				tag = HAI
-				tag = DOM
+				tag = DMN
 				tag = ALI #Yeah...
 			}
 			NOT = { has_country_flag = precolonial }
