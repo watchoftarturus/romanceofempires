@@ -13,6 +13,7 @@ pancasila = {
     }
 
     effect = {
+        add_accepted_culture = { bornean }
         prestige = 15
         any_pop = { consciousness = 2 }
         any_pop = { militancy = 0.5 }
